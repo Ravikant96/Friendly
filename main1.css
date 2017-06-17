@@ -12,7 +12,11 @@
 #header {
     background-color: #4267b2;
     color: white;
-    height: 30px;
+    height: 25px;
+}
+.navbar .badge{
+  background:red !important;
+  color:white !important;
 }
 .footer {
   height: 30px;
@@ -21,8 +25,11 @@
 .white-text{
   color: white !important;
 }
+.black-text{
+  color: black !important;
+}
 #header ul .glyphicon {
-    font-size: 13px;
+    font-size: 20px;
 }
 .pad{
   padding: 15px 0 0 15px;
