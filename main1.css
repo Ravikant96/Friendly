@@ -70,3 +70,9 @@
 .comment {
 	margin: 0;
 }
+.hei{
+  height: 50px !important;
+}
+.mar{
+  margin-top: -10px !important;
+}
