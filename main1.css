@@ -17,6 +17,8 @@
 .navbar .badge{
   background:red !important;
   color:white !important;
+  margin-top: -25px !important;
+  margin-left: -10px !important;
 }
 .footer {
   height: 30px;
