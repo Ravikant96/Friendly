@@ -76,3 +76,22 @@
 .mar{
   margin-top: -10px !important;
 }
+.cen{
+  text-align: center !important;
+  color: RED;
+}
+.bak{
+  background-color: blue;
+  color: white;
+}
+.bak1{
+  background-color: #4267b2;
+  color: black;
+  text-align: center;
+}
+.pt{
+  padding-top: 10px;
+}
+.right{
+  margin-right: 0;
+}
