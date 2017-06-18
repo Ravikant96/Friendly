@@ -90,3 +90,8 @@
 .pt{
   padding-top: 10px;
 }
+.create{
+  font-weight: lighter;
+  font-size: 20px;
+  color: grey;
+}
