@@ -2,7 +2,6 @@
   margin-top: 16px;
   margin-bottom: 16px;
 }
-
 #main,
 #menu,
 #sidebar {
@@ -37,7 +36,6 @@
   padding: 15px 0 0 15px;
   color: grey;
 }
-
 .nav-stacked a
 {
   margin:6px;
@@ -91,7 +89,4 @@
 }
 .pt{
   padding-top: 10px;
-}
-.right{
-  margin-right: 0;
 }
